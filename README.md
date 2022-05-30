@@ -1,6 +1,4 @@
 ### Hi i'm Vincent Nuestro 👋
-I’m currently working on RPA Project
-
 ![](projectKristal.png)
 
 
