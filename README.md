@@ -1,7 +1,7 @@
 ### Hi i'm Vincent Nuestro 👋
 I’m currently working on RPA Project
 
-![](2022-04-06T10_35_31.496Z-roboto.jpg)
+![](projectKristal.png)
 
 
 <!--
