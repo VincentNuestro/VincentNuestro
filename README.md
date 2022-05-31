@@ -1,4 +1,5 @@
 ### Hi i'm Vincent Nuestro 👋
+![](nuestrovincent-2021.stl)
 ![](projectKristal.png)
 
 
