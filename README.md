@@ -6,9 +6,8 @@
   <b>
     <b>
 
-### <p>ROBOTICS PROCESS AUTOMATION
-<b>
-  <b>
+### ROBOTICS PROCESS AUTOMATION
+
 ![](projectKristal.png)
 
 
