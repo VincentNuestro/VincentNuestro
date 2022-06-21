@@ -1,6 +1,6 @@
 ### Hi i'm Vincent Nuestro 👋
-- I am RPA Developer, Love to Build Automation that helps business process to reduce manual process and User Error.
-- Currently  Learing for Artificial Inteligence (AI) Development
+- I am RPA Developer, Love to Build Automation that helps business process to Reduce manual process and User Error.
+- Artificial Inteligence (AI) Development
 - Machine Learning and BlockChain Technologies
 <b>
   <b>
