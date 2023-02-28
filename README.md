@@ -18,7 +18,7 @@
 <h1 align="center"> ROBOTICS PROCESS AUTOMATION</h1>
   <br>
 
-![](projectKristal.png)</h1>
+![](Codepack.png)</h1>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
