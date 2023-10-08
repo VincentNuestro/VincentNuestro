@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vncntnuestro" target="blank"><img src="https://img.shields.io/twitter/follow/vncntnuestro?logo=twitter&style=for-the-badge" alt="vncntnuestro" /></a> </p>
 
-- 🔭 Founder of  **Code Pack**
+- 🔭 Founder of **Code Pack**
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
