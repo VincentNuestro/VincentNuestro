@@ -18,7 +18,7 @@
 <h1 align="center"> CODEPACK TECHNOLOGY</h1>
   <br>
 
-  <!--![](Codepack.png) -->
+  ![](Codepack.png)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
