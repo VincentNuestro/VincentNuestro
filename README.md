@@ -3,11 +3,11 @@
   <!-- Animated Banner -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=800&lines=Vincent+Nuestro;Lead+Software+Engineer;AI+%26+Automation+Engineer;Solution+Architect;Building+Intelligent+Systems" alt="Typing SVG" />
 
-  <br><br>
+  <br>
 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-397e-4c68-bb79-25b8d69c4a0e.gif" width="500">
 
-  <br><br>
+  <br>
 
   **Enterprise Software • Intelligent Automation • AI-Driven Systems**
 
@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 
-  <br><br>
+  <br>
 
   <!-- Row 2 -->
   <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" />
