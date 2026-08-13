@@ -66,6 +66,7 @@
 | **Neuro Pulse AI** | Predictive engineering & AI systems | 🔒 Private |
 | **CODEPACK POS + Inventory** | Point-of-sale & inventory management | 🔒 Private |
 | **Hotel Management System** | Complete hotel operations platform | 🔒 Private |
+| **Access Control Engine (ACE)** | Licensing Software | 🔒 Private |
 
 </div>
 
